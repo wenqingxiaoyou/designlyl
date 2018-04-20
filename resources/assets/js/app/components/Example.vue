@@ -4,7 +4,7 @@
             <div class="col-md-8">
                 <div class="card card-default">
                     <div class="card-header">Example Component</div>
-
+                    <div>我是前台app的页面</div>
                     <div class="card-body">
                         I'm an example component.
                     </div>
@@ -17,7 +17,8 @@
 <script>
     export default {
         mounted() {
-            console.log('Component mounted.')
+            console.log('Component mounted.');
+            console.log('Component mounted.');
         }
     }
 </script>

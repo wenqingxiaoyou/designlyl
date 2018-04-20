@@ -15,3 +15,8 @@ mix.js('resources/assets/js/app/app.js', 'public/js/app')
     .sass('resources/assets/sass/app/app.scss', 'public/css/app')
     .js('resources/assets/js/admin/admin.js', 'public/js/admin')
     .sass('resources/assets/sass/admin/admin.scss', 'public/css/admin');
+
+mix.browserSync('yysblog.com/#/');
+if(mix.config.inProduction){
+    mix.version();
+}

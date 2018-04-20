@@ -4,7 +4,7 @@
 /public/js/app/*.js
 /public/js/admin/*.js
 /public/css/app/*.css
-/public/css/admin/*.css
+/public/mix-manifest.json
 /public/js/*.js
 /storage/*.key
 /vendor

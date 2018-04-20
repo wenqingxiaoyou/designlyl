@@ -3,8 +3,8 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card card-default">
-                    <div class="card-header">Admin Example Component</div>
-
+                    <div class="card-header">Admin  Example Component</div>
+                    <div>后台管理系统</div>
                     <div class="card-body">
                         I'm an Admin example component.
                     </div>
